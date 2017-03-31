@@ -1,0 +1,44 @@
+#title, #winner{ 
+	display: inline;	
+	height: 5%;
+	width: 90%;
+	font-size: 2em;	
+	padding: .05em;
+	font-weight: bold;
+	color: #FFD700;
+	text-decoration: underline;	
+}
+
+#title{
+	text-align: left;	
+}
+
+#winner{
+	text-align: right;	
+}
+
+div #message{
+	display: inline;	
+	font-size: 2em;	
+	padding: .05em;
+	font-weight: bold;
+}
+
+table {		
+	border-collapse: collapse; 
+	border-style:hidden;	
+}
+
+td {
+	border: .10em solid black; 
+	width: 1em; 
+	height: 1em;
+}
+
+table div {
+	width: 1em; 
+	height: 1.5em; 
+	text-align: center;		
+	font-size: 2em;
+	padding: 1em;
+}
